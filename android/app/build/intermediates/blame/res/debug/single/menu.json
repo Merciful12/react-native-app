@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/future/projects/react-native/my-app/android/app/build/intermediates/res/merged/debug/menu/stub.xml",
+        "source": "/home/future/projects/react-native/my-app/android/app/build/intermediates/exploded-aar/myapp/react-native-navigation/unspecified/res/menu/stub.xml"
+    },
+    {
+        "merged": "/home/future/projects/react-native/my-app/android/app/build/intermediates/res/merged/debug/menu/search_item.xml",
+        "source": "/home/future/projects/react-native/my-app/android/app/build/intermediates/exploded-aar/myapp/react-native-navigation/unspecified/res/menu/search_item.xml"
+    }
+]
