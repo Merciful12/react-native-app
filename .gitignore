@@ -17,5 +17,7 @@ yarn-debug.log*
 yarn-error.log*
 
 .idea
+android/.grundle/
+android/app/build
 .directory
 build/
